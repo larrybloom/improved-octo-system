@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\Tickets.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\Tickets.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\Tickets.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\Tickets.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\Tickets.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\bin\Debug\net9.0\Tickets.Infrastructure.deps.json
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\bin\Debug\net9.0\Tickets.Infrastructure.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\bin\Debug\net9.0\Tickets.Infrastructure.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\bin\Debug\net9.0\Tickets.Application.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\bin\Debug\net9.0\Tickets.Domain.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\bin\Debug\net9.0\Tickets.Application.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\bin\Debug\net9.0\Tickets.Domain.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\Tickets..14D9B780.Up2Date
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\Tickets.Infrastructure.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\refint\Tickets.Infrastructure.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\Tickets.Infrastructure.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Infrastructure\obj\Debug\net9.0\ref\Tickets.Infrastructure.dll
