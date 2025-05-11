@@ -1,9 +1,3 @@
-C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.csproj.AssemblyReference.cache
-C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.AssemblyInfoInputs.cache
-C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.AssemblyInfo.cs
-C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\appsettings.json
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.API.staticwebassets.endpoints.json
@@ -159,6 +153,14 @@ C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Application.pdb
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Domain.pdb
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Infrastructure.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.sourcelink.json
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\scopedcss\bundle\Tickets.API.styles.css
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\staticwebassets.development.json
@@ -175,4 +177,4 @@ C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.pdb
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\ref\Tickets.API.dll
-C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

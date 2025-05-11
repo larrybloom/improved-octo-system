@@ -1,10 +1,12 @@
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\bin\Debug\net9.0\Tickets.Domain.deps.json
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\bin\Debug\net9.0\Tickets.Domain.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\bin\Debug\net9.0\Tickets.Domain.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\Tickets.Domain.csproj.AssemblyReference.cache
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\Tickets.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\Tickets.Domain.AssemblyInfoInputs.cache
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\Tickets.Domain.AssemblyInfo.cs
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\Tickets.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\Tickets.Domain.sourcelink.json
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\Tickets.Domain.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\refint\Tickets.Domain.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Domain\obj\Debug\net9.0\Tickets.Domain.pdb
