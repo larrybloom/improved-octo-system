@@ -6,6 +6,7 @@ using MediatR;
 using Tickets.Application.Commands.CreateTicket;
 using FluentValidation.AspNetCore;
 using Tickets.Infrastructure.Repository;
+using MassTransit;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -28,6 +29,17 @@ builder.Services.AddControllers();
 
 builder.Services.AddControllers().AddFluentValidation();
 
+builder.Services.AddMassTransit(x =>
+{
+    x.UsingRabbitMq((ctx, cfg) =>
+    {
+        cfg.Host("rabbitmq", "/", h =>
+        {
+            h.Username("guest");
+            h.Password("guest");
+        });
+    });
+});
 
 
 

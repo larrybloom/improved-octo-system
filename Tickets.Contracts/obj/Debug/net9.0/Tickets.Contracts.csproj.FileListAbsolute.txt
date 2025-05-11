@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\bin\Debug\net9.0\Tickets.Contracts.deps.json
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\bin\Debug\net9.0\Tickets.Contracts.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\bin\Debug\net9.0\Tickets.Contracts.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\Tickets.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\Tickets.Contracts.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\Tickets.Contracts.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\Tickets.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\Tickets.Contracts.sourcelink.json
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\Tickets.Contracts.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\refint\Tickets.Contracts.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\Tickets.Contracts.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.Contracts\obj\Debug\net9.0\ref\Tickets.Contracts.dll

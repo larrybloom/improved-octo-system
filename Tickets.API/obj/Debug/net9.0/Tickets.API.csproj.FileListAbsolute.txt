@@ -12,6 +12,11 @@ C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\MassTransit.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\MediatR.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\MediatR.Contracts.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
@@ -52,6 +57,7 @@ C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\RabbitMQ.Client.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -148,11 +154,13 @@ C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Application.dll
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Contracts.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Domain.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Infrastructure.dll
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Application.pdb
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Domain.pdb
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Infrastructure.pdb
+C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\bin\Debug\net9.0\Tickets.Contracts.pdb
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.csproj.AssemblyReference.cache
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.AssemblyInfoInputs.cache
@@ -177,4 +185,3 @@ C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.pdb
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\Tickets.API.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\ref\Tickets.API.dll
-C:\Users\ADMIN\Documents\training\ticketing-system\Tickets.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
